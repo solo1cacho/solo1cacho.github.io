@@ -11,10 +11,10 @@ Solo un cacho
         <header>
             <h1 class="title01">Luis Andrés Giménez Cacho Santiago</h1>
             <nav>
-                <a href="final-project-lagcs.html">One</a>
-                <a href="final-project-lagcs.html">Two</a>
-                <a href="final-project-lagcs.html">Three</a>
-                <a href="https://www.wikipedia.org">Wikipedia</a>
+                <a href="https://solo1cacho.github.io/">One</a>
+                <a href="https://solo1cacho.github.io/">Two</a>
+                <a href="https://solo1cacho.github.io/">Three</a>
+                <a href="https://solo1cacho.github.io/">Wikipedia</a>
             </nav>
         </header>
         <section>
