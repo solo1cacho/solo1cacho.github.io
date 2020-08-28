@@ -29,10 +29,10 @@ Solo un cacho
         <hr>
         <main>
             <section id="acuerdos">
-                <a href="acuerdos.html"><h3 id="titulo03">&#8226;&#32;Acuerdos pendientes de cumplir por DERFE</a></h3>
+                <a href="acuerdos.html"><h3 id="titulo03">&#8226;&#32;Acuerdos pendientes de cumplir por DERFE</h3></a>
             </section>
             <section id="asuntos">
-                <a href="asuntos.html"><h3 id="titulo03">&#8226;&#32;Asuntos DERFE planteados al Grupo INE-C19</a></h3>
+                <a href="asuntos.html"><h3 id="titulo03">&#8226;&#32;Asuntos DERFE planteados al Grupo INE-C19</h3></a>
             </section>
             <section id="atendidos">
                 <a href="atendidos.html"><h3 id="titulo03">&#8226;&#32;Compromisos atendidos por la DERFE</h3></a>
